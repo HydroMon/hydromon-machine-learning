@@ -6,7 +6,7 @@ import os
 from email import header
 
 # path
-path = 'D:/MBKM/BANGKIT ML PATH/Repo/hydromon-machine-learning/dataset/ver2/'
+path = 'D:/MBKM/BANGKIT ML PATH/Repo/hydromon-machine-learning/dataset/ver3_testing/'
 
 # time generator
 def addSecs(tm, secs):
